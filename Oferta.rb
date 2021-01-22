@@ -6,7 +6,6 @@ class Oferta
     @o_fecha_publicacion = fecha_publicacion
     @o_descripcion = descripcion
     @o_salario = salario
-    @o_postulantes = postulantes
     @o_habilidades = habilidades
   end
 

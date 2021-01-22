@@ -1,6 +1,6 @@
 require 'open-uri'
 require 'nokogiri'
-require_relative "Scraper"
+require_relative "ScraperWorkana"
 
 puts "Ingrese el tema que desea recolectar de Coursera: "
 tema = gets()

@@ -17,10 +17,24 @@ class Scraper
    
     # ITERACIÓN DE ELEMENTOS DEL CONTENEDOR DE TODOS LOS RESULTADOS 
     elements.each do |i|
-        span = i.css('span')
         titulo = i.css('span').first.inner_text
         fecha_publicacion = i.css('span')[1].inner_text[24..]
-        puts fecha_publicacion
+        descripcion = i.css('.html-desc.project-details').inner_text.strip
+        salario = i.css('.values').inner_text
+        habilidades = []
+        puts titulo
+        puts 'Iteración del skills'
+        puts i.css('.skills label-expander')[2]
+        # i.css('.skills > div').each do |s|
+        #     puts 'itera'
+        #     puts s
+        #     puts ''
+        #     puts ''
+        # end
+
+
+
+
 
 
 #       # RECOLECCIÓN DE ATRIBUTOS
