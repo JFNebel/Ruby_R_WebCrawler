@@ -2,13 +2,13 @@ require 'open-uri'
 require 'nokogiri'
 require_relative "ScraperWorkana"
 
-puts "Ingrese el tema que desea recolectar de Coursera: "
+puts "Ingrese el tema que desea recolectar: "
 tema = gets()
 
-puts "Los resultados para #{tema} son: "
+puts "Los resultados para #{tema} han sido guardados en su csv! "
 puts ""
 
-scraper = Scraper.new  
-scraper.extraer(tema)
-
-
+scraperW = ScraperWorkana.new  
+# TODO: scraperF = ScraperFreelancer.new
+scraperW.extraer(tema)
+# TODO: scraperF.extraer(tema)
