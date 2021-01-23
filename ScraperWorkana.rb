@@ -5,6 +5,7 @@ require 'nokogiri'
 require_relative 'Oferta' 
 
 #TODO: Pasa registrar a OFERTA
+# Referencia util para el futuro: https://www.rubyguides.com/2018/01/ruby-string-methods/
 
 class ScraperWorkana
   
