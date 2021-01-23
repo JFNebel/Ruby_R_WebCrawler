@@ -1,5 +1,6 @@
 require 'open-uri'
 require 'nokogiri'
+require './ScraperFreelancer.rb'
 require_relative "ScraperWorkana"
 
 puts "Ingrese el tema que desea recolectar: "
@@ -8,7 +9,8 @@ tema = gets()
 puts "Los resultados para #{tema} han sido guardados en su csv! "
 puts ""
 
-scraperW = ScraperWorkana.new  
-# TODO: scraperF = ScraperFreelancer.new
-scraperW.extraer(tema)
-# TODO: scraperF.extraer(tema)
+#scraperW = ScraperWorkana.new  
+scraperF = Scraper.new
+#scraperW.extraer(tema)
+scraperF.extraer(tema)
+
