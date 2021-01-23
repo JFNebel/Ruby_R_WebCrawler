@@ -4,8 +4,6 @@ require 'json'
 require 'nokogiri'
 require_relative 'Oferta' 
 
-# TODO: 
-#    2) Formatea el código para que sea vea presentable
 # Referencia util para el futuro: https://www.rubyguides.com/2018/01/ruby-string-methods/
 
 
