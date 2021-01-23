@@ -8,63 +8,36 @@ class Scraper
   end
 
   def extraer(tema)
-    url = "https://www.workana.com/jobs?language=en&skills=android"
-    parsed_content= Nokogiri::HTML(Net::HTTP.get(URI(url)))
-    elements = parsed_content.css('.project-item.js-project')
-    numero_elementos= elements.length() 
-    # puts numero_elementos
-#     fp = File.open("valores.csv", "w") # --> Solo para reiniciar el archivo 
-   
-    # ITERACIÓN DE ELEMENTOS DEL CONTENEDOR DE TODOS LOS RESULTADOS 
-    elements.each do |i|
-        titulo = i.css('span').first.inner_text
-        fecha_publicacion = i.css('span')[1].inner_text[24..]
-        descripcion = i.css('.html-desc.project-details').inner_text.strip
-        salario = i.css('.values').inner_text
-        habilidades = []
-        puts titulo
-        puts 'Iteración del skills'
-        puts i.css('.skills label-expander')[2]
-        # i.css('.skills > div').each do |s|
-        #     puts 'itera'
-        #     puts s
-        #     puts ''
-        #     puts ''
-        # end
+    num_pagina = 1
+    while num_pagina < 8
+        puts "El número de página es: #{num_pagina}" 
+        url = "https://www.workana.com/jobs?language=en&skills=android&page=#{num_pagina}"
+        parsed_content= Nokogiri::HTML(Net::HTTP.get(URI(url)))
+        elements = parsed_content.css('.project-item.js-project')
+        numero_elementos= elements.length() 
+    
+        # ITERACIÓN DE ELEMENTOS DEL CONTENEDOR DE TODOS LOS RESULTADOS 
+        elements.each do |i|
+            titulo = i.css('span').first.inner_text
+            fecha_publicacion = i.css('span')[1].inner_text[24..]
+            descripcion = i.css('.html-desc.project-details').inner_text.strip
+            salario = i.css('.values').inner_text
+            puts titulo
 
-
-
-
-
-
-#       # RECOLECCIÓN DE ATRIBUTOS
-    #   nombre = i.css('.color-primary-text.card-title.headline-1-text').inner_text
-    #   imagen = i.at_css('img')['src']
-    #   nivel = i.css('.difficulty').inner_text
-    #   tipo = i.css('._jen3vs._1d8rgfy3').inner_text
-    #   institucion = i.css('.partner-name').inner_text
-    #   calificacion = i.css('.ratings-text').inner_text
-     
-#       # REGISTRAR EN DOCUMENTO
-    #   curso = Curso.new(nombre, imagen, nivel, tipo, institucion, calificacion) 
-    #   curso.registrar()
-
-#       # PRUEBAS POR CONSOLA 
-#       puts "Nombre: #{nombre}"       
-#       puts "Imagen: #{imagen}"
-#       puts "Nivel: #{nivel}"
-#       puts "Tipo: #{tipo}"
-#       puts "Institución: #{institucion}"
-#       puts "Calificación: #{calificacion}"
-      
-      
-#       puts ""
-#       puts ""
+            # habilidades = []
+            # puts titulo
+            # puts 'Iteración del skills'
+            # puts i.css('.skills label-expander')
+            # i.css('.skills > div').each do |s|
+            #     puts 'itera'
+            #     puts s
+            #     puts ''
+            #     puts ''
+            # end
+        end
+        num_pagina = num_pagina + 1
     end
 
-#     fp.close
-#     puts "Su búsqueda ha terminado produciendo un total de #{numero_cursos} cursos. Se ha generado con éxito un csv con los valores recolectados (valores.csv).\n\n"
-    
   
    end
 
