@@ -1,0 +1,274 @@
+Mobile App for Inspection of activities on site||Hace 2 días||1. Development of Mobile App for Android Only
+2. Mobile App functionalities need to read/write data based on Offline Mode & Sych once connected to Internet to the System Backend
+3. API Development for the Backend System
+4.
+Duration of 1 & Half Month
+5. Connected with Map Services for Location Based / Location of InspectionCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: SíProcesador de pago: No||Más de USD 3.000||[]
+App Flutter||Hace 1 hora||Desenvolver MVP do app My Line Health em flutter.
+
+Protótipo: https://framer.com/share/My-Line-Healthz--bceP5SPvliRPB8p7kWJP/YHF0Cu_VE?fullscreen=1#YHF0Cu_VECategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Crear una appTipo de app: OtroNecesita backend: SíProcesador de pago: No||USD 1.000 - 3.000||[]
+Flutter Alarm Clock (Android Only)||Hace 5 horas||I don't need screens, just dart function to create a Android Alarm
+
+Alarm just need:
+id: int
+date: Date
+Hour: int
+Minutes: int
+withVibration: bool
+withSound: bool
+
+and when it is fired open a simple flutter screen (without beautiful ui) with stop button.
+
+Have to work with locked device.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Modificar una app existenteTipo de app: OtroNecesita backend: NoProcesador de pago: No||USD 250 - 500||[]
+Mobil App for Android Pos||Hace 6 horas||Descripción:
+We need 1 APP for Android POS Version 7:
+1. Standar ISO8583 Message 
+     a) Purchage
+     b) Returm
+     c) Reverse
+     d)Log On
+     e) dukpt key
+2. Read the different Cards, EMV, Magnetic Stripe, QR, etc
+     1) Card Number
+     2) Track ii
+     3) emv tag
+     4) introduce with the keyboard the id 
+3.
+Connect to a Web Service or IP and Port in the server for send the message
+4. Administrative Menu for configuring the IP, port, currency, merchant Name, Merchant ID, terminal ID and other
+We will send you a document with all the specification 
+If you want to do the works, please send your experience and offerCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Crear una appTipo de app: OtroNecesita backend: NoProcesador de pago: No||USD 1.000 - 3.000||[]
+Make mobile app cross platforms||Hace 12 horas||Seeking make mobile app for my business. European or American are prefer.
+Also have knowledge about api.
+
+More detail can discuss at PMCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo el diseñoDisponibilidad requerida: Tiempo completoPlataformas requeridas: iPhone, Android, iPadNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: NoProcesador de pago: Sí||Más de USD 40 / hora||[]
+To publish Ios App||Hace 22 horas||I have my website in responsive format ready, ipa file ready, icon design and screenshots ready. 
+
+The website address: https://www.gymncare.com
+
+Basically I just need a registered iOS developer to publish the App for me. May I know how many hours it will take to complete the job and how much in total?Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo el diseñoDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPad, OtroTipo de app: Tienda virtualNecesita backend: NoProcesador de pago: No||Menos de USD 50||[]
+Logistic app in flutter||Ayer||I need finish an app already started, I have a little pending information to complete, we are using flutter and dart language, the app is around logistic process.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Modificar una app existenteTipo de app: OtroNecesita backend: SíProcesador de pago: Sí||Menos de USD 50||[]
+I need a web and app for my e-commerce business like ebay and amazon||Ayer||A company that can operate like amazon with fast service, Aliexpress that can offer wholesales and like eBay that a different section for Auction ItemsCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPadNecesito: Crear una appTipo de app: Tienda virtualApps similares: OtroNecesita backend: SíProcesador de pago: Sí||Más de USD 3.000||[]
+React/Redux, Django, React native debugs and features||Hace 2 semanas||You must be:
+- Fluent in English
+- Expert in React.js and Redux
+- Bonus: React-native experience
+- Bonus: Django experience
+- Available immediately
+- Agencies with a confirmed business and signed NDA
+- You must be anywhere in Americas (to match my time zone)
+- I am definitely looking for a long term developer/s for full time opportunity. This is just a sample task.
+- Be on timeCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Modificar una app existenteNecesita backend: SíProcesador de pago: No||USD 250 - 500||[]
+Mobile app for cars||Hace 2 semanas||Hi sir can you build an app for towing company? Like road side assistance delivering gas, towing cars and opening lock door there is two interface for the customer and for the driver.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros||Menos de USD 50||[]
+Need to do a app for food delievery||Hace 2 semanas||Something like what you see on food panda and grab.  We will ask the household to make food at home. They will see the order on the app.
+ Once the food ready, the driver with the app will take the food from the house to deliver to the customer.  The customers will order food from the app.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesiteNecesito: Crear una app||USD 500 - 1.000||[]
+Develop a mobile app for community service||Hace 2 semanas||I need a mobile app with demand service and provide service for community within one month. I would like to get started as soon as possible. I will be standing by for new messages.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: SíProcesador de pago: Sí||USD 500 - 1.000||[]
+Full Stack Developer||Hace 2 semanas||We’re looking for a Full Stack developer who will take a key role on our team. Our Full Stack developer must have knowledge in all stages of software development.
+
+
+You’ll be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our App/Web.
+
+Responsibilities:
+
+- Develop visually appealing front end App/website architecture, including translating designer mock-ups and wireframes into front-end code
+- Develop functional databases, applications, and servers to support websites on the back end
+- Ensure cross-platform optimization for mobile
+- Develop and design RESTful services and APIs
+- Strategize organizational direction on emerging technology platforms and communicate the effectiveness to executive stakeholders
+- Ensure that non-functional requirements such as security, performance, maintainability, scalability, usability, and reliability are being considered when architecting solutions.
+
+Skills:
+
+- Fluent with Flutter
+- Fluent in CSS (Foundation or Bootstrap), JavaScript, and HTML
+- Strong knowledge of Linux, PHP, and MySQL, with working understanding of MongoDB, PostgreSQL, AngularJS, Express.js, Oracle, React, Ember and Node.js.
+- Experience working with languages such as Java, .Net, Python, PHP or Ruby.
+- Experience in API design and development.
+
+- Understanding of libraries including Backbone.js and jQuery.
+- Experience with AJAX.
+- Experience working with server technologies including Apache, ISS, Node.js, Nginx, and J2EE.
+
+- Strong knowledge of data structures, system design, and algorithmsCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Tiempo completoPlataformas requeridas: Android, iPhoneTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)||USD 20 - 30 / hora||[]
+Application that is a cross breed of a social media and grab food o...||Hace 2 semanas||I need an mobile application (andriod and IOS) and website that will function alot similar like grab food / food panda where users ca order food and have it delivered. But the looks of the GUI is much like a social media.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPadNecesito: Crear una appTipo de app: Tienda virtualApps similares: OtroNecesita backend: SíProcesador de pago: No||USD 50 - 100||[]
+Food app and more at home||Hace 2 semanas||I need an app and website like Uber eats, Deliveroo, Glovo and their accessories. Give me your demo apps and their installation priceCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, OtroNecesito: Crear una appApps similares: Otro||USD 250 - 500||[]
+Unity App Project (requires database work)||Hace 3 semanas||I have a Unity app that needs a few updates.
+The app makes use of a few files on my Virtual Private Server, as well as an SQL database.
+
+The app is essentially a product registry that presents the user with various products (ie: electronics, or clothes) from various API's (ie: Amazon API, Best Buy API, Walmart API)
+
+We need to do the following tasks.
+
+1) The first task is to remove a few of the product categories and add a few new ones. For example, if a user selects the "Electrnics" category, items from the "Electronics" category in Amazon are automatically presented to the user. We have too many categories and ned to remove about half.
+We also need add a few new ones such as "womens clothes" and "mens clothes".
+
+2) We need to remove the Walmart product selection and replace it with a different product API. The product API is called Brookstone, and it's available on CJ..Com. We have API access, it's pretty straight forward.
+
+3) We need to add a “Forgot your password” link so that the user can recovery their password.
+
+4) In the “My Items” page, we need the ability to move a disliked item to the “like” item list
+
+5) If an item has been liked or disliked, we need to make sure it doesn’t appear to the user again.
+
+6) On the “Find a friend” screen, we should automatically show the friends you’re following below the search box. Once you search it’ll replace the list of currently followed friends with the search results.
+
+7) In the settings>Register Child screen, the UI is off after the registration. Specifically the logo at the top is duplicated for some reason.
+
+We need a quick turnaround on the project, 48 hours.
+The first two tasks should take around 3 hours and the remaining 5 tasks roughly 3 hours of work.
+I'll give a 10 rating for good work.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Modificar una app existenteTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: SíProcesador de pago: No||USD 100 - 250||[]
+Api Developer||Hace 3 semanas||I am looking for a person with good knowledge about nodejs and API. Our project structure is done. You need to help complete the tasks which are created.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo el diseñoDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Modificar una app existenteNecesita backend: Sí||USD 50 - 100||[]
+Programming expert||Hace 3 semanas||Looking for a professional programming developer who create a cheat script for a game called "Growtopia". I require freelancers with the necessary skills and knowledge to do the task.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Modificar una app existenteTipo de app: JuegoNecesita backend: NoProcesador de pago: No||USD 100 - 250||[]
+Libgdx make teleport gate||Hace 3 semanas||The project need me to develop a teleport gate. However, too less open source to refer an I wonder how to do it. I am using my method but failed to finish itCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Crear una appTipo de app: JuegoNecesita backend: NoProcesador de pago: No||Menos de USD 50||[]
+Android App - Cotizacion / Ordenes / Mostrar Inventarios||Hace 22 días||I would like to create an Android APP
+to cretae qoutes / orders and Stock Online.
+and show invoices online
+
+with a log in account for each customerCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPadNecesito: Crear una app||USD 100 - 250||[]
+Streaming app template configuration, this is in javascript and Jso...||Hace 22 días||I recently purchased a template for a streaming app on android, ios and windows, 4 months ago,
+created with ionic frameowrk 3.6 but ionic has presented changes and I need help to start the appCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros||USD 250 - 500||[]
+Streaming app template configuration, this is in javascript and Jso...||Hace 23 días||I recently purchased a template for a streaming app on android, ios and windows, 4 months ago,
+created with ionic frameowrk 3.6 but ionic has presented changes and I need help to start the appCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros||USD 250 - 500||[]
+Video Calling App||Hace 29 días||We are a startup company that needs developers to create a video calling app for multiple users with subscription and in-app purchases. Must be launched in 1 to 2 months.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPad, OtroNecesito: Crear una appTipo de app: OtroApps similares: OtroNecesita backend: SíProcesador de pago: Sí||USD 1.000 - 3.000||[]
+Toys library||Hace un mes||I need a mobile application for toys library, where subscribers can upload photos for thier own toys and books and submit them to the library for lenders and in return they can borrow from other subscribers, our role is to match between them and offer packing and delivery, upon request.
+It's a green community project.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros||USD 250 - 500||[]
+Create an app for a sustainable development company||Hace un mes||I need an app that works both for Android and iOS. This app should enable end users to log in via phone or email using two-factor authentication. The app shall enable end users to earn tokens they can convert into cash or purchase VDR services.
+The app should display a 'VDR Token' earnings based on (a) renewable energy used, (b) waste recycled/upcycled, (c) trees planted, and (d) distance travelled via walking, bicycle, and/or e-vehicle.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Crear una appTipo de app: Utilidad - Aplicación de utilidad (flash, calculadora, etc.)Apps similares: UberNecesita backend: NoProcesador de pago: Sí||Más de USD 3.000||[]
+Website real estate listing machine to attract house owner and buyer||Hace un mes||As briefly this project is website  for real estate which have capability
+Database in MySQL
+Language  C#, MVC. Asp .NET
+
+Admin Capability 
+1. To record and display  client info
+2.
+To record, display and delete , edit  agent info
+3.  To record, display , edit and delete  property info
+
+Core webiste  ( lead generation )
+1. To attract property owner to register their property for selling
+2.
+To attract buyer to purchase the propertyCategoría: Programación y TecnologíaSubcategoría: Programación Web¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo el diseñoDisponibilidad requerida: Según se necesiteIntegraciones de API: Social media (Facebook, Twitter, etc.), Cloud Storage (Dropbox, Google Drive, etc.), Otros (Otras APIs)Roles necesarios: Programador, Diseñar una landing page||USD 250 - 500||[]
+Online toy library||Hace un mes||I need to build a mobile application for children toys and books library. Parents can lend and borrow toys and books by booking them through application. Each member can show his list of toys and books and in the same time can borrow from other members, a map and a calendar should be added to the application and subscription button of course.
+Also a delivery option tap is required and payment methods tab.
+The application contain also a " toy club" which has same futers plus a poll to vote for a top toy of the week, and not necessarily the same subscribers and rules of payment.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, OtroTipo de app: OtroNecesita backend: SíProcesador de pago: No||USD 250 - 500||[]
+Create a Vpn application for Android||Hace un mes||Create a VPN application for Android. Add more protocols adding to my vpn app HTTp2 DNs Ipsec And more. This vpn working free data any sim in KSA.?
+?
+
+Protocol DNS - ipsec - http2 - ssh - like that
+
+
+Example: 
+
+https://play.google.com/store/apps/details?id=com.tunnelguru.toofan
+
+https://play.google.com/store/apps/details?id=initux.soft.dev.nbnetvpn
+
+https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb
+
+https://play.google.com/store/apps/details?id=com.bossapps.boltnetvpn
+
+https://play.google.com/store/apps/details?id=initux.soft.dev.nbnetvpnCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Crear una appTipo de app: Utilidad - Aplicación de utilidad (flash, calculadora, etc.)Necesita backend: SíProcesador de pago: No||USD 500 - 1.000||[]
+Build aws serverless feedback application||Hace un mes||Aws serverless feedback application is to be developed to provide employee feedback to managers using aws services
+api gateway, react front end, host react apron aws amplify using aws cloud, build serverless application using aws sam , lambda step functions, integration with aws chimes, tracing using aws xray , sentiment analysis lambda function has to be created. Dynamo DB no sql database is used for persistent information, cicd pipeline is to be built , sentiment analysis using amazon comprehend
+Architecture and github sample code will be provided to work on and enhance. Need to be completed by Dec 25, 2020.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: SíProcesador de pago: No||USD 250 - 500||[]
+Mobile app for transportation app||Hace un mes||I will need you to develop 2 apps. 1 for customers, another 1 for drivers. The features in the customer app will have price quotation, location, payment transactions.
+The app for drivers will have job list, acceptance of job, history, payment.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Crear una appTipo de app: OtroNecesita backend: SíProcesador de pago: Sí||USD 250 - 500||[]
+Carzilians App||Hace un mes||I need a app developed that will have a membership and points for my customers I also need a e-commerce website done. On the app I will need to sell everything in merchandise like apparels to detailing products to booking jobs.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: iPhone, AndroidNecesito: Crear una appTipo de app: Promoción - Aplicación para promocionar tu negocio/empresaApps similares: OtroNecesita backend: NoProcesador de pago: Sí||USD 500 - 1.000||[]
+Certificates||Hace un mes||Connect to server for recording, issuance, or deleting of certificates.
+Server connects with REST client. Certificates is registered in format from con to base64.
+
+Certificate are issued on format pdf.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesiteNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Apps similares: OtroNecesita backend: SíProcesador de pago: No||USD 100 - 250||[]
+Modify Android App||Hace un mes||I need to make some improvements to an app.
+
+- Login screen
+- Modify "activities" already created to add new functionalities.
+- Add new easy "activies"Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Modificar una app existenteTipo de app: OtroNecesita backend: SíProcesador de pago: No||Menos de USD 50||[]
+Laccamba||Hace un mes||It is an online selling app where you can sell products by renting. Sellers can easily earn money because it provides an organized system where an easy access to the products is the utmost concern.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Crear una appTipo de app: Promoción - Aplicación para promocionar tu negocio/empresaApps similares: OtroNecesita backend: NoProcesador de pago: No||USD 500 - 1.000||[]
+Develop 3 App for a Pos (Point of Sale) Android||Hace un mes||We need 3 app for pos android:
+- first a pos in local currency 
+- second a pos in us dollar currency
+this both are with the same massage in iso8583 they will have al financial transaction for debit and credit, purchase, anulacion, close, log on.
+- The other is a app that the pos can accept a btc or any cryto.
+RegardCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Crear una appTipo de app: OtroNecesita backend: NoProcesador de pago: Sí||USD 1.000 - 3.000||[]
+Private Social media application mockup||Hace un mes||Mockup for Private Social media application , where only limited to fixed number of friends and looks like Path Application .Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Crear una appTipo de app: Social mediaApps similares: OtroNecesita backend: SíProcesador de pago: Sí||USD 500 - 1.000||[]
+Mobile app||Hace un mes||I need corporate how to use my work how to use m obile Lords Mobil Lords Mobil Lords Mobil
+ Lords Mobil Lords Mobil Lords Mobil Lords MobilCategoría: Programación y TecnologíaSubcategoría: Programación Web¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesiteRoles necesarios: Diseñador, Gerente de proyecto, ProgramadorApps similares: Facebook||USD 100 - 250||[]
+Microsoft Power Bi||Hace un mes||Need to write reports mis reports dashboards in microsoft power bi, Business intelligent reports writer web and desk top applications bothCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesite||USD 50 - 100||[]
+C# Backend||Hace un mes||I need the google play store codes added to my compete backend which is in C#/ The app is completed in ios/android.  In addition, add twilio for whats up texting as well as sign in with google mail, apple, and facebook.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros||USD 50 - 100||[]
+Google Play Added To Backend||Hace un mes||My Guardian is completed. I need to add the google play store codes to my backend. The backend is coded in C#.
+ Needs IOS/Android.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesita backend: NoProcesador de pago: Sí||USD 50 - 100||[]
+Casino Slot Machine Standard||Hace un mes||My Budget for $50 up to $100 only to recommended my project,  who wants to help me. 
+
+Just do them option games so they can choose the game they want
+
+* live casino
+• baccarat
+• dragon tiger
+
+slot machine
+• three kingdoms
+• batcat
+• super dog 
+
+this is your situation. When they choose to deposit and withdraw from their wallet
+
+-Php 50
+-Php 100
+-Php 200
+-Php 300
+-Php 400
+-Php 500
+-Php 1,000
+-Php 1,500
+-Php 2,000 -
+
+This is the Account Wallet of their choice for Deposit and withdrawal
+
+-gcash wallet
+-paypal wallet
+-paymaya wallet 
+
+
+this is you also put them shopping how much they "bet".
+
+I mean Balance will be their Chips in the game,
+
+BET 10
+BET 50
+BET 100
+BET 200
+BET 300
+BET 500Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Migrar una appTipo de app: JuegoApps similares: FacebookNecesita backend: NoProcesador de pago: Sí||USD 500 - 1.000||[]
+Food delivery Apps||Hace un mes||Food delivery apps, Familiar with Cross native platform, Native. All the food delivery function, include three apps, MerchantSome people can ask – why do I need to develop my application if there are already aggregators or popular services which I can use? Let's check out three categories of businesses that should consider developing a food delivery service:
+
+Restaurant Chains: Owners of a large food restaurant chain across the city or country that don't want to pay an extra fee to some aggregator app.
+Entrepreneurs of a Specific Area: The location they live in is too small or distant for such aggregators like UberEats, or they can't launch due to some legal issues.
+
+Startups: Those who want to be ahead of direct competitors and by creating a food delivery service – increase the client's loyalty and break new ground. 
+Types of Food Delivery Apps
+Business models of food ordering platforms can adjust according to business goals and requirements. Food delivery service can be local or even worldwide, giving multiple opportunities to start or extend the existing business.
+
+Let's check out the typical business models of food delivery applicatCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: iPhone, AndroidNecesito: Crear una appTipo de app: OtroNecesita backend: SíProcesador de pago: Sí||USD 500 - 1.000||[]
+Recover Google and old Icloud/Itunes backup||Hace un mes||Hi there I’m looking find someone who may be able to help if it’s possible at all 
+1. Recover google account and drive I deleted some time ago, I’ve tried to recover myself using google help but no luck 
+
+2. I’m unable to recover old photos and videos associated with an Apple id.
+Neither can I find them in iCloud or iTunes but I’ve made back ups the past.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: iPhoneTipo de app: Social mediaNecesita backend: NoProcesador de pago: No||USD 50 - 100||[]
+I'm looking for a Flutter App developer||Hace 1 mes||Hello.
+I need a Flutter App developer
+I provide a mockup file
+you need to give me flutter frontend app from it.
+Please let me know if you can do it.
+
+ThanksCategoría: Programación y TecnologíaSubcategoría: Programación Web¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoDisponibilidad requerida: Según se necesiteRoles necesarios: Diseñador||USD 100 - 250||[]
+8 ball Pool (Miniclip-like) App||Hace 2 meses||Developing High Quality 8 ball Pool (Miniclip-like) App and integration of API or Payment system with no Lagging or whatsoever only clean code, prototype drawing, and changes will be advised. A Demo must be provided. Budget $1500-$2000.
+contact for more detailsCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesiteNecesito: Crear una app||USD 1.000 - 3.000||[]
+Mobile app user interphase development||Hace 2 meses||We’re looking for an programmer specialized in user interphase to create a mobile app. We are open to different languages but prefer Java. We are also open to novel data bases NoSQL and would like to get your opinion on Mongo.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPadNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: SíProcesador de pago: Sí||USD 500 - 1.000||[]
+A flutter developer||Hace 2 meses||I want to fix flutter app issues.
+I will discuss with you via chat.
+You have to experience about flutter and firebase.
+
+RegardsCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Modificar una app existente||Menos de USD 50||[]
+Publish Ios app||Hace 2 meses||Hey, I have seen that you have worked on uploading an App Store app here in Workana, am I right? I come from the client which initials goes by "E.M" and that you have a review on him as a client.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros||USD 500 - 1.000||[]
+Travel Safe App||Hace 2 meses||Provides up-to-date information on what and where tourists’ restrictions are currently in force and the risks associated with COVID-19.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPad, OtroNecesito: Crear una appTipo de app: OtroApps similares: UberNecesita backend: SíProcesador de pago: No||Menos de USD 50||[]
+Design a charity app||Hace 2 meses||Do not forget to specify the delivery dates, scope, deliverables, technology involved, nature of your business and, if you have, referenceCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Crear una appTipo de app: OtroNecesita backend: SíProcesador de pago: Sí||USD 50 - 100||[]
