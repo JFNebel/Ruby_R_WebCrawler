@@ -1,13 +1,7 @@
-Mobile App for Inspection of activities on site||Hace 2 días||1. Development of Mobile App for Android Only
-2. Mobile App functionalities need to read/write data based on Offline Mode & Sych once connected to Internet to the System Backend
-3. API Development for the Backend System
-4.
-Duration of 1 & Half Month
-5. Connected with Map Services for Location Based / Location of InspectionCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: SíProcesador de pago: No||Más de USD 3.000||["Android", "API", "HTML", "iPhone", "JavaScript", "PHP", "Responsive Web Design"]
-App Flutter||Hace 3 horas||Desenvolver MVP do app My Line Health em flutter.
+App Flutter||Hace 19 horas||Desenvolver MVP do app My Line Health em flutter.
 
 Protótipo: https://framer.com/share/My-Line-Healthz--bceP5SPvliRPB8p7kWJP/YHF0Cu_VE?fullscreen=1#YHF0Cu_VECategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Crear una appTipo de app: OtroNecesita backend: SíProcesador de pago: No||USD 1.000 - 3.000||["Android", "iPhone", "Responsive Web Design", "Firebase", "Flutter"]
-Flutter Alarm Clock (Android Only)||Hace 6 horas||I don't need screens, just dart function to create a Android Alarm
+Flutter Alarm Clock (Android Only)||Hace 22 horas||I don't need screens, just dart function to create a Android Alarm
 
 Alarm just need:
 id: int
@@ -20,7 +14,7 @@ withSound: bool
 and when it is fired open a simple flutter screen (without beautiful ui) with stop button.
 
 Have to work with locked device.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Modificar una app existenteTipo de app: OtroNecesita backend: NoProcesador de pago: No||USD 250 - 500||["Android", "iPhone", "Responsive Web Design", "Flutter"]
-Mobil App for Android Pos||Hace 8 horas||Descripción:
+Mobil App for Android Pos||Ayer||Descripción:
 We need 1 APP for Android POS Version 7:
 1. Standar ISO8583 Message 
      a) Purchage
@@ -38,17 +32,17 @@ Connect to a Web Service or IP and Port in the server for send the message
 4. Administrative Menu for configuring the IP, port, currency, merchant Name, Merchant ID, terminal ID and other
 We will send you a document with all the specification 
 If you want to do the works, please send your experience and offerCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: AndroidNecesito: Crear una appTipo de app: OtroNecesita backend: NoProcesador de pago: No||USD 1.000 - 3.000||["Android", "iPhone", "Responsive Web Design"]
-Make mobile app cross platforms||Hace 14 horas||Seeking make mobile app for my business. European or American are prefer.
+Make mobile app cross platforms||Ayer||Seeking make mobile app for my business. European or American are prefer.
 Also have knowledge about api.
 
 More detail can discuss at PMCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo el diseñoDisponibilidad requerida: Tiempo completoPlataformas requeridas: iPhone, Android, iPadNecesito: Crear una appTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: NoProcesador de pago: Sí||Más de USD 40 / hora||["Android", "API", "iOS", "iPhone", "JavaScript", "MySQL", "PHP", "Responsive Web Design"]
-To publish Ios App||Hace 23 horas||I have my website in responsive format ready, ipa file ready, icon design and screenshots ready. 
+To publish Ios App||Ayer||I have my website in responsive format ready, ipa file ready, icon design and screenshots ready. 
 
 The website address: https://www.gymncare.com
 
 Basically I just need a registered iOS developer to publish the App for me. May I know how many hours it will take to complete the job and how much in total?Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo el diseñoDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPad, OtroTipo de app: Tienda virtualNecesita backend: NoProcesador de pago: No||Menos de USD 50||["Android", "iOS", "iPhone", "Responsive Web Design", "Diseño de App Móvil"]
 Logistic app in flutter||Ayer||I need finish an app already started, I have a little pending information to complete, we are using flutter and dart language, the app is around logistic process.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Modificar una app existenteTipo de app: OtroNecesita backend: SíProcesador de pago: Sí||Menos de USD 50||["Android", "iOS", "iPhone", "Responsive Web Design", "Flutter"]
-I need a web and app for my e-commerce business like ebay and amazon||Ayer||A company that can operate like amazon with fast service, Aliexpress that can offer wholesales and like eBay that a different section for Auction ItemsCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPadNecesito: Crear una appTipo de app: Tienda virtualApps similares: OtroNecesita backend: SíProcesador de pago: Sí||Más de USD 3.000||["Android", "API", "HTML", "iOS", "iPhone", "JavaScript", "MySQL", "PHP", "Responsive Web Design"]
+I need a web and app for my e-commerce business like ebay and amazon||Hace 2 días||A company that can operate like amazon with fast service, Aliexpress that can offer wholesales and like eBay that a different section for Auction ItemsCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Crear una aplicación nueva¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo una ideaDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhone, iPadNecesito: Crear una appTipo de app: Tienda virtualApps similares: OtroNecesita backend: SíProcesador de pago: Sí||Más de USD 3.000||["Android", "API", "HTML", "iOS", "iPhone", "JavaScript", "MySQL", "PHP", "Responsive Web Design"]
 React/Redux, Django, React native debugs and features||Hace 2 semanas||You must be:
 - Fluent in English
 - Expert in React.js and Redux
@@ -118,9 +112,9 @@ We need a quick turnaround on the project, 48 hours.
 The first two tasks should take around 3 hours and the remaining 5 tasks roughly 3 hours of work.
 I'll give a 10 rating for good work.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoDisponibilidad requerida: Según se necesitePlataformas requeridas: Android, iPhoneNecesito: Modificar una app existenteTipo de app: Gestión - Aplicación de gestión (turnos, stock de mercadería, etc.)Necesita backend: SíProcesador de pago: No||USD 100 - 250||["Android", "API", "iOS", "iPhone", "MySQL", "Responsive Web Design", "Unity 3D"]
 Api Developer||Hace 3 semanas||I am looking for a person with good knowledge about nodejs and API. Our project structure is done. You need to help complete the tasks which are created.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo el diseñoDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Modificar una app existenteNecesita backend: Sí||USD 50 - 100||["Android", "API", "iPhone", "JavaScript", "Responsive Web Design"]
-Programming expert||Hace 3 semanas||Looking for a professional programming developer who create a cheat script for a game called "Growtopia". I require freelancers with the necessary skills and knowledge to do the task.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Modificar una app existenteTipo de app: JuegoNecesita backend: NoProcesador de pago: No||USD 100 - 250||["Android", "iPhone", "jQuery", "Prototype JavaScript Framework", "Responsive Web Design", "Diseño de App Móvil"]
-Libgdx make teleport gate||Hace 3 semanas||The project need me to develop a teleport gate. However, too less open source to refer an I wonder how to do it. I am using my method but failed to finish itCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Crear una appTipo de app: JuegoNecesita backend: NoProcesador de pago: No||Menos de USD 50||["Android", "iPhone", "JavaScript", "Responsive Web Design"]
-Android App - Cotizacion / Ordenes / Mostrar Inventarios||Hace 22 días||I would like to create an Android APP
+Programming expert||Hace 22 días||Looking for a professional programming developer who create a cheat script for a game called "Growtopia". I require freelancers with the necessary skills and knowledge to do the task.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: Tengo las especificacionesDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Modificar una app existenteTipo de app: JuegoNecesita backend: NoProcesador de pago: No||USD 100 - 250||["Android", "iPhone", "jQuery", "Prototype JavaScript Framework", "Responsive Web Design", "Diseño de App Móvil"]
+Libgdx make teleport gate||Hace 22 días||The project need me to develop a teleport gate. However, too less open source to refer an I wonder how to do it. I am using my method but failed to finish itCategoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Bug o cambio pequeño¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: OtroNecesito: Crear una appTipo de app: JuegoNecesita backend: NoProcesador de pago: No||Menos de USD 50||["Android", "iPhone", "JavaScript", "Responsive Web Design"]
+Android App - Cotizacion / Ordenes / Mostrar Inventarios||Hace 23 días||I would like to create an Android APP
 to cretae qoutes / orders and Stock Online.
 and show invoices online
 
@@ -254,7 +248,7 @@ Recover Google and old Icloud/Itunes backup||Hace un mes||Hi there I’m looking
 
 2. I’m unable to recover old photos and videos associated with an Apple id.
 Neither can I find them in iCloud or iTunes but I’ve made back ups the past.Categoría: Programación y TecnologíaSubcategoría: Programación de Apps. Android, iOS y otros¿Cuál es el alcance del proyecto?: Cambio mediano¿Es un proyecto o una posición?: Un proyectoActualmente tengo: No aplicaDisponibilidad requerida: Según se necesitePlataformas requeridas: iPhoneTipo de app: Social mediaNecesita backend: NoProcesador de pago: No||USD 50 - 100||["Android", "iPhone", "Responsive Web Design"]
-I'm looking for a Flutter App developer||Hace 1 mes||Hello.
+I'm looking for a Flutter App developer||Hace 2 meses||Hello.
 I need a Flutter App developer
 I provide a mockup file
 you need to give me flutter frontend app from it.

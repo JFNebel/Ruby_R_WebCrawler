@@ -4,8 +4,10 @@ require 'json'
 require 'nokogiri'
 require_relative 'Oferta' 
 
-#TODO: Pasa registrar a OFERTA
+# TODO: 
+#    2) Formatea el código para que sea vea presentable
 # Referencia util para el futuro: https://www.rubyguides.com/2018/01/ruby-string-methods/
+
 
 class ScraperWorkana
   
@@ -41,7 +43,11 @@ class ScraperWorkana
             end
 
             #REGISTRO EN EL CSV
-            registrar(titulo, fecha_publicacion, descripcion, salario, habilidades)
+            oferta = Oferta.new(titulo, fecha_publicacion, descripcion, salario, habilidades) 
+            oferta.registrarWorkana()
+
+            #PRUEBAS POR CONSOLA
+            #puts "Título: #{oferta.o_titulo}"
 
         end
         num_pagina = num_pagina + 1
@@ -51,15 +57,4 @@ class ScraperWorkana
 
    end
 
-end
-
-
-
-
-def registrar(titulo, fecha_publicacion, descripcion, salario, habilidades)
-    File.open("workana.csv", "a") do |file| 
-    linea = "#{titulo}||#{fecha_publicacion}||#{descripcion}||#{salario}||#{habilidades}\n"
-    file.write(linea)
-    file.close
-    end
 end
