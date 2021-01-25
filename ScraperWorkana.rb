@@ -28,7 +28,7 @@ class ScraperWorkana
             # RECOLECTO ATRIBUTOS 
             titulo = i.css('span').first.inner_text
             fecha_publicacion = i.css('span')[1].inner_text[24..].strip
-            descripcion = i.css('.html-desc.project-details').inner_text.strip
+            descripcion = i.css('.html-desc.project-details').inner_text.strip.tr("\n"," ")
             salario = i.css('.values').inner_text
 
             #RECOLECTANDO EL ATRIBUTO HABILIDADES
