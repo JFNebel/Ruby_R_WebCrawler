@@ -6,7 +6,6 @@ require_relative 'Oferta'
 
 # Referencia util para el futuro: https://www.rubyguides.com/2018/01/ruby-string-methods/
 
-
 class ScraperWorkana
   
   def initialize
@@ -16,13 +15,13 @@ class ScraperWorkana
     num_pagina = 1
     fp = File.open("workana.csv", "w") # --> Solo para reiniciar el archivo 
     while num_pagina < 8
-        # puts "El número de página es: #{num_pagina}" 
+
         url = "https://www.workana.com/jobs?language=en&skills=#{tema}&page=#{num_pagina}"
-       # url = "https://www.workana.com/jobs?language=en&query=#{tema}&page=#{num_pagina}"
         parsed_content= Nokogiri::HTML(Net::HTTP.get(URI(url)))
         elements = parsed_content.css('.project-item.js-project')
         numero_elementos= elements.length() 
 
+        # URL para búsquedas generales (no skills)
         if(numero_elementos == 0)
             url = "https://www.workana.com/jobs?language=en&query=#{tema}&page=#{num_pagina}"
             parsed_content= Nokogiri::HTML(Net::HTTP.get(URI(url)))
@@ -30,10 +29,10 @@ class ScraperWorkana
             numero_elementos= elements.length() 
         end
 
-        puts "La URL es: #{url}"
-        puts "El número de elementos es: #{numero_elementos}"
-
+        #PRUEBAS POR CONSOLA ÚTILES
+        # puts "La URL es: #{url}"
         # puts "El número de elementos es: #{numero_elementos}"
+
         # ITERACIÓN DE ELEMENTOS DEL CONTENEDOR DE TODOS LOS RESULTADOS 
         elements.each do |i|
             
@@ -41,20 +40,12 @@ class ScraperWorkana
             titulo = i.css('span').first.inner_text
             fecha_publicacion = i.css('span')[1].inner_text[24..]
             
-            # verdad = fecha_publicacion.nil?  
-            # puts "#{verdad}"
-
             unless fecha_publicacion.nil?
                 fecha_publicacion = fecha_publicacion.strip
             end
 
-
-
-
-            # fecha_publicacion = i.css('span')[1].inner_text[24..].strip
             descripcion = i.css('.html-desc.project-details').inner_text.strip.tr("\n"," ")
             salario = i.css('.values').inner_text
-
 
             #RECOLECTANDO EL ATRIBUTO HABILIDADES
             habilidades = []
@@ -71,7 +62,6 @@ class ScraperWorkana
                     habilidades.append(habilidad)
                 end
             end
-
 
             # PARTE 2 DEL CÓDIGO ORIGINAL (PRE DEVELOPER BUG)
             # data = JSON.parse(arreglo_skills)
