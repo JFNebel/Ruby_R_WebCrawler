@@ -6,9 +6,9 @@ require 'csv'
 
 class Scraper
   def extraer(tema)
-    puts tema
+    # puts tema
     url = 'https://www.freelancer.es/jobs/?keyword='+tema
-    puts url
+    # puts url
     csv = CSV.open('freelancer.csv', 'w')
 
     contenido_pars = Nokogiri::HTML(Net::HTTP.get(URI(url)))
