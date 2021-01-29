@@ -17,7 +17,7 @@ class Oferta
 
   def registrarWorkana()
       File.open("workana.csv", "a") do |file| 
-      linea = "#{@o_titulo}||#{@o_fecha_publicacion}||#{@o_descripcion}||#{@o_salario}||#{@o_habilidades}\n"
+      linea = "#{@o_titulo},#{@o_fecha_publicacion},#{@o_descripcion},#{@o_salario},#{@o_habilidades}\n"
       file.write(linea)
       file.close
   end
