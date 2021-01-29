@@ -16,10 +16,13 @@ class Oferta
   
 
   def registrarWorkana()
-      File.open("workana.csv", "a") do |file| 
-      linea = "#{@o_titulo},#{@o_fecha_publicacion},#{@o_descripcion},#{@o_salario},#{@o_habilidades}\n"
-      file.write(linea)
-      file.close
+      # File.open("workana.csv", "a") do |file| 
+      # linea = "#{@o_titulo},#{@o_fecha_publicacion},#{@o_descripcion},#{@o_salario},#{@o_habilidades}\n"
+      # file.write(linea)
+      # file.close
+      csv = CSV.open("workana.csv", "a" )
+      csv << [@o_titulo, @o_fecha_publicacion, @o_descripcion, @o_salario, @o_habilidades]
+      csv.close
   end
 
   
@@ -28,5 +31,6 @@ class Oferta
     csv << [@o_titulo, @o_fecha_publicacion, @o_descripcion , @o_salario, @o_habilidades]
     
   end
-end
+
+
 end
