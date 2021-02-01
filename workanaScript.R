@@ -14,10 +14,44 @@ library(data.table)
 library(stringr)
 
 
-# Importando el .csv a un dataset
-ofertas <- read.csv("workana.csv", header = FALSE, sep =",")
-# Renombrando columnas
-names(ofertas)<- c("Titulo", "Fecha","Descripcion", "Salario", "Habilidades")
+# Importando los .csv a un dataset
+ofertasW <- read.csv("workana.csv", header = FALSE, encoding="UTF-8",sep =",")
+ofertasF <- read.csv("freelancer.csv", header = FALSE, encoding="UTF-8", sep =",")
+names(ofertasW)<- c("Titulo", "Fecha","Descripcion", "Salario", "Habilidades")
+names(ofertasF)<- c("Titulo", "Fecha","Descripcion", "Salario", "Habilidades")
+
+
+# ================= PRE-PROCESAMIENTO PARA CONCATENAR TABLAS ==================
+
+ofertasWDT <- data.table(ofertasW)
+ofertasFDT <- data.table(ofertasF)
+
+#Sacamos las comisiones por hora
+ofertasWDT <- ofertasWDT[!grepl("hora", Salario, fixed = TRUE),]
+ofertasFDT <- ofertasFDT[!grepl("hr", Salario, fixed = TRUE),]
+
+#Colocamos las columnas de Salarios en un solo formato para un buen binding
+ofertasWDT[, Salario:= gsub("+[^0-9-]", "", Salario)
+           , by = c("Titulo", "Fecha", "Descripcion", "Salario", "Habilidades")]  
+
+ofertasWDT[, Salario:= mean(as.numeric(unlist(strsplit(Salario, "-", 1, FALSE)))
+           , na.rm=FALSE), by = "Titulo"]
+
+
+
+ofertasFDT[, Salario:= mean(as.numeric(unlist(strsplit(Salario, "-", 1, FALSE)))
+                            , na.rm=FALSE), by = "Titulo"]
+ofertasFDT[, Salario:= sapply(ofertasFDT[,Salario],as.numeric)]
+ofertasFDT[, Salario:= round(ofertasFDT[,Salario])]
+
+
+
+
+# Realizamos el binding para tener las ofertas GLOBALES
+ofertas  <- rbind(ofertasWDT, ofertasFDT)
+
+# Renombrando columnas ya no es necesario
+# names(ofertas)<- c("Titulo", "Fecha","Descripcion", "Salario", "Habilidades")
 
 
 
@@ -62,16 +96,19 @@ dispDT <- dispDT[ , list( Habilidades = unlist( strsplit( Habilidades , "," ) ) 
 
 #Sacando el numero de skills por título
 dispDT <- dispDT[ , .N , by = c("Titulo","Salario")]
-dispDT <- dispDT[ , gsub("+[^0-9-]", "", Salario), by = c("Titulo","N")]
-dispDT <- dispDT[ , mean(as.numeric(unlist(strsplit(V1, "-", 1, FALSE))), na.rm=FALSE)
-                  , by = c("Titulo","N")]
-names(dispDT) <- c("Titulo", "Skills", "SalarioMed")
+names(dispDT) <- c("Titulo", "SalarioMed", "Skills")
+dispDT[, SalarioMed:= sapply(dispDT[,SalarioMed],as.numeric)]
+
+#dispDT <- dispDT[order(-SalarioMed),]
+#dispDT <- head(dispDT,40)
+dispDT <- sample_n(dispDT,40)
 
 
 # Generando dotchart
 grps <- as.factor(dispDT$Skills)
 dotchart(dispDT$SalarioMed, main = "Ofertas salariales en base a número de habilidades"
-         , labels = dispDT$Titulo ,groups = grps, cex = 0.6
-         , xlab = "Número de Habilidades", ylab = "Ofertas agrupadas por número de habilidades")
+         , labels = str_trunc(dispDT$Titulo, 40, side = c("right"), ellipsis = "...") 
+         , groups = grps, cex = 0.6
+         , xlab = "Salario medio", ylab = "Ofertas agrupadas por número de habilidades")
 
 
