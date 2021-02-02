@@ -47,8 +47,9 @@ ofertasFDT[, Salario:= round(ofertasFDT[,Salario])]
 
 
 
-# Realizamos el binding para tener las ofertas GLOBALES
-ofertas  <- rbind(ofertasWDT, ofertasFDT)
+# Realizamos el binding para tener las ofertas GLOBALES y quitamos duplicados
+ofertas <- rbind(ofertasWDT, ofertasFDT)
+ofertas <- ofertas[!duplicated(ofertas$Titulo),]
 
 # Renombrando columnas ya no es necesario
 # names(ofertas)<- c("Titulo", "Fecha","Descripcion", "Salario", "Habilidades")
@@ -79,7 +80,7 @@ freqSkillDT <- head(freqSkillDT,7)
 #Armamos el histograma
 colores <- c("#00172d","#02386e","#00498d","#1a84b8","#1a8cb8","#1a94b8","#1a9cb8")
 barplot(freqSkillDT, ylab = "Frecuencia", xlab = "Habilidades", 
-        ylim = c(0,50), main = "Top 7 tecnologías asociadas a la búsqueda", 
+        ylim = c(0,60), main = "Top 7 tecnologías asociadas a la búsqueda", 
         col = colores, space= 0.7, cex.names=0.8, 
         names.arg=abbreviate(names(freqSkillDT), minlength = 20))
 
