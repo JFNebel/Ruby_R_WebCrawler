@@ -12,6 +12,7 @@ class ScraperWorkana
   end
 
   def extraer(tema)
+    tema = tema.downcase
     num_pagina = 1
     fp = File.open("workana.csv", "w") # --> Solo para reiniciar el archivo 
     while num_pagina < 8
