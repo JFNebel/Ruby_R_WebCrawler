@@ -27,8 +27,8 @@ ofertasWDT <- data.table(ofertasW)
 ofertasFDT <- data.table(ofertasF)
 
 #Sacamos las comisiones por hora
-ofertasWDT <- ofertasWDT[!grepl("hora", Salario, fixed = TRUE),]
-ofertasFDT <- ofertasFDT[!grepl("hr", Salario, fixed = TRUE),]
+ofertasWDT <- ofertasWDT[!grepl("h", Salario, fixed = TRUE),]
+ofertasFDT <- ofertasFDT[!grepl("h", Salario, fixed = TRUE),]
 
 #Colocamos las columnas de Salarios en un solo formato para un buen binding
 ofertasWDT[, Salario:= gsub("+[^0-9-]", "", Salario)
@@ -109,7 +109,7 @@ dispDT <- sample_n(dispDT,40)
 grps <- as.factor(dispDT$Skills)
 dotchart(dispDT$SalarioMed, main = "Ofertas salariales en base a número de habilidades"
          , labels = str_trunc(dispDT$Titulo, 40, side = c("right"), ellipsis = "...") 
-         , groups = grps, cex = 0.6
+         , groups = grps, cex = 0.6, xlim = c(0,4000)
          , xlab = "Salario medio", ylab = "Ofertas agrupadas por número de habilidades")
 
 
