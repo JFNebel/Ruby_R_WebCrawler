@@ -1,6 +1,10 @@
 #Información de la oferta del skills más  solicitado
 #Abre ventana para buscar el archivo y retorna la ruta entre comillas
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("readxl")
 install.packages("data.table")
+install.packages("stringr")
 #file.choose()
 #se copia la ruta entre comillas a un variable
 #rutaF <- "C:\\Users\\allis\\OneDrive\\Escritorio\\Ruby_R_WebCrawler\\freelancer.csv"
@@ -50,7 +54,7 @@ f<-table(f)
 f<-sort(f,decreasing = TRUE)
 f<-as.data.frame(f)
 names(f) <- c("Habilidad", "N. veces Rep")
-skill<-as.character(f[1,1])
+skill<-as.character(f[2,1])
 skill <- paste("\\b",skill,"\\b",sep='')
 indices<- grep(skill,tabla$Habilidades,ignore.case = TRUE)
 View(tabla[indices,])
